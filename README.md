@@ -27,4 +27,42 @@ Welcome to my personal portfolio website! This project showcases my recent proje
    ```
 
 2. Navigate to the project directory:
-   
+   ```bash
+   cd portfolio
+   ````
+
+3. Install the dependencies:
+   ```bash
+   npm install
+   ````
+
+4. Start the development server:
+   ```bash
+   npm start
+   ````
+
+
+## Usage
+
+_ Visit ` http://localhost:3000 ` to view the portfolio locally.
+
+_ Explore the various sections including Projects, About, and Resume.
+
+_ Visit the live site: imannavdekar.netlify.app
+
+
+## Contributing
+
+Feel free to submit issues or pull requests. Contributions are welcome!
+
+## Contact
+
+Feel free to reach out to me through the following platforms:
+
+- **LinkedIn**: [Iman Navdekar](https://www.linkedin.com/in/imannavdekar/)
+- **GitHub**: [NavdekarIman](https://github.com/NavdekarIman)
+- **Email**: [imannavdekar08@gmail.com](mailto:imannavdekar08@gmail.com)
+- **Instagram**: [iman_navdekar](https://www.instagram.com/iman_navdekar/)
+
+I am open to collaborations, project discussions, and any opportunities where I can contribute my skills and experience. Looking forward to connecting with you!
+
