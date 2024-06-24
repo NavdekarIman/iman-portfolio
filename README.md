@@ -48,7 +48,7 @@ _ Visit ` http://localhost:3000 ` to view the portfolio locally.
 
 _ Explore the various sections including Projects, About, and Resume.
 
-_ Visit the live site: imannavdekar.netlify.app
+_ Visit the live site: `imannavdekar.netlify.app`
 
 
 ## Contributing
