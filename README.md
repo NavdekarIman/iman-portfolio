@@ -61,7 +61,7 @@ Feel free to reach out to me through the following platforms:
 
 - **LinkedIn**: [Iman Navdekar](https://www.linkedin.com/in/imannavdekar/)
 - **GitHub**: [NavdekarIman](https://github.com/NavdekarIman)
-- **Email**: [imannavdekar08@gmail.com](mailto:imannavdekar08@gmail.com)
+- **Email**: [imannavdekar08](mailto:imannavdekar08@gmail.com)
 - **Instagram**: [iman_navdekar](https://www.instagram.com/iman_navdekar/)
 
 I am open to collaborations, project discussions, and any opportunities where I can contribute my skills and experience. Looking forward to connecting with you!
