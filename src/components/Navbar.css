@@ -1,0 +1,12 @@
+/* NavBar.css */
+.logo {
+    width: 150px; /* Adjust the width as needed */
+    height: auto; /* Maintain the aspect ratio */
+  }
+  
+  @media (max-width: 768px) {
+    .logo {
+      width: 120px; /* Adjust the width for smaller screens */
+    }
+  }
+  
